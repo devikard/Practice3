@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Master Branch Commit1");
             Console.WriteLine("Changes in Feature1");
+
         }
     }
 }
