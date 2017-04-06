@@ -11,7 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Master Branch Commit1");
-            Console.WriteLine("Changes in Master");
+            Console.WriteLine("Changes in Feature1");
+
         }
     }
 }
