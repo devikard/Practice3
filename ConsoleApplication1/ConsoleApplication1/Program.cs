@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Feature1 Branch");
+            Console.WriteLine("Feature1 Branch Commit2");
         }
     }
 }
